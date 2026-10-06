@@ -1,0 +1,11 @@
+{
+  "host": "35.164.64.208",
+  "port": 9933,
+  "account": {
+    "zone": "COE1",
+    "gameUid": "REPLACE",
+    "pw": "REPLACE_32HEX",
+    "login_params": {"channelId": 4, "platform": 1, "appVersion": "5.78.0", "checkVersion": 1003,
+                      "serverId": 536, "scode": "REPLACE", "deviceId": "REPLACE"}
+  }
+}
